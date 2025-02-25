@@ -15,3 +15,7 @@ The project includes:
 5 Visualizing sample predictions.
 
 plots for Training and Validation obtained during Running and Evaluating Model:
+
+![Screenshot 2025-02-25 174245](https://github.com/user-attachments/assets/2ad7e5af-57ff-4055-949e-d3090554e71d)
+![Screenshot 2025-02-25 174252](https://github.com/user-attachments/assets/a9903ba0-705c-48af-851d-741a161c4004)
+![Screenshot 2025-02-25 174300](https://github.com/user-attachments/assets/e60edeb3-817c-4afd-abeb-ad236d57bad7)
