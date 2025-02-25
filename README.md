@@ -3,6 +3,7 @@ This project implements binary image classification (bees vs. ants) using the Vi
 The implementation includes ViT-Base (16x16 patches, 224x224 images) pretrained on ImageNet and is fine-tuned to achieve high accuracy on this dataset. 
 
 The project includes: 
+
 1 Data preprocessing & augmentation. 
 
 2 Fine-tuning a pretrained Vision Transformer (ViT).
