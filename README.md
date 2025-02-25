@@ -14,3 +14,4 @@ The project includes:
 
 5 Visualizing sample predictions.
 
+plots for Training and Validation obtained during Running and Evaluating Model:
